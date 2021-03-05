@@ -1,6 +1,6 @@
 # Untitled Game
 
-![GitHub](https://img.shields.io/github/license/rageCode153/untitledGame)![GitHub last commit](https://img.shields.io/github/last-commit/rageCode153/untitledGame)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rageCode153/untitledGame)
+![GitHub](https://img.shields.io/github/license/rageCode153/untitledGame) ![GitHub last commit](https://img.shields.io/github/last-commit/rageCode153/untitledGame) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/rageCode153/untitledGame)
 
 Untitled Game main character is named Kevin. You follow him to his journey on recovering his memories with the help of his close friends Steven. Will he able to retrieve all his memories?
 
